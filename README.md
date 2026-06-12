@@ -1,157 +1,326 @@
-# Hi there! 👋 I'm Debasish
+# <div align="center">🚀 Debasish Mohanta</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+
+### Full Stack Developer • Android Developer • GenAI Builder • Electronics Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Android+Developer;GenAI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Products" />
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=debasishk07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/debasishk07?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+
+<a href="https://github.com/debasishk07">
+<img src="https://img.shields.io/github/followers/debasishk07?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/debasishk07">
+<img src="https://img.shields.io/github/stars/debasishk07?style=for-the-badge&logo=github&label=Stars" />
+</a>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const debasish = {
-    location: "Bhubaneswar, Odisha 🏙️",
-    currentFocus: ["Full Stack Development", "Mobile Apps", "AI/ML", "DSA"],
-    portfolio: "https://debasish-portfolio.onrender.com",
-    funFact: "I turn coffee into code ☕ and bugs into features 🐛✨",
-    askMeAbout: ["Flutter", "Web Development", "Java", "Machine Learning", "Data Structures"],
-    currentlyLearning: "Advanced ML Techniques & System Design"
+  education: "B.Tech ECE @ Silicon University",
+  location: "Bhubaneswar, Odisha 🇮🇳",
+
+  expertise: [
+    "Full Stack Development",
+    "Android Development",
+    "Generative AI",
+    "Machine Learning"
+  ],
+
+  currentFocus: [
+    "React Ecosystem",
+    "FastAPI",
+    "PostgreSQL",
+    "AI Applications",
+    "System Design"
+  ],
+
+  internships: [
+    "Dakshay Infotech",
+    "ITW",
+    "CodeBeat",
+    "Syllogistek Systems"
+  ],
+
+  motto: "Build. Learn. Ship. Repeat."
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚧 Currently Building
 
-<div align="center">
+* 🤖 AI-powered productivity applications
+* 🌍 TravelMate – GenAI Travel Planner
+* 💻 ThinkCoder – Online Coding Platform
+* ⚡ Full-stack applications using React + Node.js
+* 🔥 Exploring FastAPI, PostgreSQL and RAG systems
 
-### 🎯 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+---
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 🧭 My Developer Journey
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+```text
+Electronics
+    ↓
+IoT & Embedded Systems
+    ↓
+Android Development
+    ↓
+Full Stack Development
+    ↓
+Generative AI & Intelligent Applications
+```
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+---
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+## 💼 Experience Snapshot
 
-</div>
+### 🏢 Dakshay Infotech (Jan 2026 – May 2026)
+
+**Full Stack Developer**
+
+* Migrated legacy PHP applications to modern React.js architecture
+* Built reusable UI components and scalable frontend modules
+* Improved maintainability and frontend performance
+
+### 🏢 ITW (Jun 2025 – Aug 2025)
+
+**GenAI & Android Developer Intern**
+
+* Built AI-powered Android applications using Kotlin
+* Integrated Firebase and REST APIs
+* Implemented MVVM architecture
+
+### 🏢 CodeBeat (Jul 2024 – Sep 2024)
+
+**Full Stack Developer Intern**
+
+* Developed MERN-based applications
+* Optimized backend APIs and MongoDB queries
+* Worked on scalable web systems
+
+### 🏢 Syllogistek Systems (Aug 2023 – Oct 2023)
+
+**Machine Learning Engineer Intern**
+
+* Built ML models for health prediction
+* Developed hand gesture recognition systems
+* Achieved 95% model accuracy
 
 ---
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/debasishk07/Blinkit-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasishk07&repo=Blinkit-Clone&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/debasishk07/price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasishk07&repo=price-prediction&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+### 🌍 TravelMate
 
-<div align="center">
-  <a href="https://github.com/debasishk07/Hand-Gesture-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasishk07&repo=Hand-Gesture-Recognition&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/debasishk07/Java-DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasishk07&repo=Java-DSA&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+AI-powered travel planning platform.
+
+**Tech Stack**
+
+* React
+* Next.js
+* Convex
+* Clerk
+* Gemini AI
+
+**Features**
+
+* Personalized itineraries
+* AI travel recommendations
+* Secure authentication
+
+---
+
+### 💻 ThinkCoder
+
+Online coding platform with real-time execution.
+
+**Tech Stack**
+
+* React
+* Firebase
+* Judge0 API
+
+**Features**
+
+* Online code execution
+* Authentication
+* Coding challenges
+
+---
+
+### 🤖 Hand Gesture Recognition
+
+Real-time computer vision system.
+
+**Tech Stack**
+
+* Python
+* OpenCV
+* MediaPipe
+* Scikit-Learn
+
+**Features**
+
+* Gesture classification
+* Real-time inference
+* ML-based recognition
+
+---
+
+## ⚡ Tech Radar
+
+### 🟢 Daily Use
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,firebase,git,github" />
+</p>
+
+### 🔵 Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,fastapi,docker,aws" />
+</p>
+
+### 🟣 Exploring
+
+* AI Agents
+* LangChain
+* Vector Databases
+* RAG Systems
+* System Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,kotlin,dart" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debasishk07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishk07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=debasishk07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishk07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasishk07&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasishk07&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debasishk07&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debasishk07&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Generative AI applications** and **Full-Stack web solutions**
-- 🌱 Learning **Advanced Gen AI techniques** and **Modern Web Architecture**
-- 👯 Looking to collaborate on **AI-powered Full Stack Projects**
-- 🤔 Exploring **LangChain**, **Vector Databases**, and **Real-time Applications**
-- ⚡ Fun fact: I love building interactive UIs with GSAP animations and integrating AI into everyday applications
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debasishk07&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=debasishk07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </div>
+
+---
+
+## 🤝 Open To
+
+* ✅ Full Stack Development Opportunities
+* ✅ Backend Development Roles
+* ✅ Android Development
+* ✅ AI/ML Projects
+* ✅ Open Source Contributions
+* ✅ Freelance Development Work
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://debasish-portfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/debasishk07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/debasishk07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:debasish.dev07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
-  </a>
+
+<a href="https://debasish-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/debasish-mohanta-0ba806248">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:debasishk7809@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
 
-<div align="center">
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ---
 
 <div align="center">
-  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House</p>
-  <p>✨ <strong>Thanks for visiting my profile! Let's build something amazing together!</strong> ✨</p>
+
+## 🚀 Building Products at the Intersection of AI, Web, Mobile & IoT
+
+*"The best way to learn is to build."*
+
+⭐ If you like my work, consider following me and checking out my repositories!
+
 </div>

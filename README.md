@@ -24,36 +24,20 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const debasish = {
-  education: "B.Tech ECE @ Silicon University",
-  location: "Bhubaneswar, Odisha 🇮🇳",
+🎓 B.Tech in Electronics & Communication Engineering at Silicon University
 
-  expertise: [
-    "Full Stack Development",
-    "Android Development",
-    "Generative AI",
-    "Machine Learning"
-  ],
+💻 Full Stack Developer passionate about building scalable web applications
 
-  currentFocus: [
-    "React Ecosystem",
-    "FastAPI",
-    "PostgreSQL",
-    "AI Applications",
-    "System Design"
-  ],
+📱 Android Developer with experience in Kotlin, Firebase, and MVVM architecture
 
-  internships: [
-    "Dakshay Infotech",
-    "ITW",
-    "CodeBeat",
-    "Syllogistek Systems"
-  ],
+🤖 Exploring Generative AI, Machine Learning, and Intelligent Applications
 
-  motto: "Build. Learn. Ship. Repeat."
-};
-```
+⚡ Former IoT and Embedded Systems enthusiast turned software engineer
+
+🚀 Currently focused on React, Node.js, FastAPI, PostgreSQL, and AI-powered products
+
+🌱 Always learning, always building
+
 
 ---
 

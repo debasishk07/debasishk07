@@ -42,11 +42,11 @@ IoT & Embedded  →  Android Dev  →  Full Stack  →  GenAI Systems
 
 ## // featured projects
 
-### 🗺️ [TravelMate](https://travel-mate-one.vercel.app/ target="_blank" rel="noopener noreferrer") — AI Travel Planner
+### 🗺️ [TravelMate](https://travel-mate-one.vercel.app/) — AI Travel Planner
 `Next.js` `Convex` `Gemini AI` `Clerk`  
 Personalized AI itineraries, real-time recommendations, secure auth.
 
-### 💻 [ThinkCoder](https://think-coder.vercel.app/ target="_blank" rel="noopener noreferrer") — Online Coding Platform
+### 💻 [ThinkCoder](https://think-coder.vercel.app/) — Online Coding Platform
 `React` `Firebase` `Judge0`  
 Real-time code execution, auth, coding challenges.
 
